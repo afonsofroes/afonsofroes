@@ -1,7 +1,7 @@
 # Hello there 👋
 
 # About me
-Data Scientist with a big interest in Data Engineering and MLOps. I love working with Python and working collaboratively.
+I'm a Data Scientist with a big interest in Data Engineering and MLOps. I love working with Python and to work collaboratively.
 
 
 # Tech Stack
