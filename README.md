@@ -9,7 +9,7 @@ I'm a Data Scientist with a big interest in Data Engineering and MLOps. I love w
 
 
 # GitHub Stats
-<table align="center" border="0" cellpadding="0" cellspacing="0">
+<table align="left" border="0" cellpadding="0" cellspacing="0">
   <thead>
     <tr>
       <td>
