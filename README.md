@@ -14,7 +14,7 @@ I'm a Data Scientist with a big interest in Data Engineering and MLOps. I love w
     <tr>
       <td>
         <img
-          src="https://github-readme-stats.vercel.app/api?username=afonsofroes&show_icons=true&locale=en&theme=tokyonight&count_private=false"
+          src="https://github-readme-stats.vercel.app/api?username=afonsofroes&show_icons=true&locale=en&theme=tokyonight&count_private=true"
           alt="GitHub Stats"
         />
       </td>
