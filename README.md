@@ -1,6 +1,6 @@
 # Hiya 👋
 
-My name is Afonso, I'm 25, and I'm a Le Wagon batch #1157 Data Science graduate, now Le Wagon Data Analytics Batch Manager & Data Science Teacher.
+My name is Afonso, I'm 26, and I'm a Le Wagon batch #1157 Data Science graduate, now Le Wagon Data Analytics Batch Manager & Data Science Teacher.
 
 I love all things ML, especially unsupervised learning models, and programming in Python.
 
