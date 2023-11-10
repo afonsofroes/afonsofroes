@@ -1,7 +1,5 @@
 # Hiya 👋
 
-https://github.com/pietrodn/grpcio-mac-arm-build/releases/download/1.50.0/grpcio-1.50.0-cp310-cp310-macosx_11_0_arm64.whl 
-
 My name is Afonso, I'm 26, and I'm a Le Wagon batch #1157 Data Science graduate, now Le Wagon Data Analytics Batch Manager & Data Science Teacher.
 
 I love all things ML, especially unsupervised learning models, and programming in Python.
