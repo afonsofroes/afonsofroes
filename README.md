@@ -1,5 +1,5 @@
 # Hiya 👋
-My name is Afonso, I'm 26, and I'm a Le Wagon batch #1157 Data Science graduate, now Data Scientist at Starkdata in Lisbon.
+My name is Afonso, I'm 26, and I'm a Le Wagon batch #1157 Data Science graduate, now AI Specialist at BJSS in Lisbon.
 
 I love all things ML, especially unsupervised learning models, and programming in Python.
 
