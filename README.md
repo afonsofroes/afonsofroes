@@ -1,3 +1,4 @@
+[![Certified Thinker](https://meatproxy.me/badge/c/t39fj.svg)](https://meatproxy.me/c/t39fj)
 # Hiya 👋
 My name is Afonso, I'm 28, and I'm a Le Wagon batch #1157 Data Science graduate, now working as an AI Engineer.
 
